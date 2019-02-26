@@ -21,8 +21,6 @@ This is _not_ a coding puzzle and there are _no_ tricks.
 
 ## The task
 
-## The task
-
 1. Given a RESTful API endpoint that returns data encoded in a JWT-like structure based on a six-digit numeric string:
    > https://coding-assignment-v1.now.sh/api/v1/inbox/{id}
 2. Fetch the payload
